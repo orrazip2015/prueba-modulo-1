@@ -4,6 +4,10 @@
     }
 }
 
+body {
+    font-family: 'Fredoka', sans-serif;
+}
+
 .social {
     width: 10%;
 }
