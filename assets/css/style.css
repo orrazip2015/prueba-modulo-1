@@ -15,3 +15,7 @@ body {
 .socialmedia {
     background-color: darkgray;
 }
+
+section {
+    padding-top: 10rem;
+}
