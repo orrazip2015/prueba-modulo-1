@@ -1,7 +1,0 @@
-https://github.com/lucio-crDEV/ayudantiaModulo-uno
-git remote -v
-git remote show
-git remote rename
-git branch nombre de la rama
-git branch checkout ...... 
-checkiut -b ramita
